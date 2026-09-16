@@ -1,5 +1,8 @@
 # ⚔️ RPG Battle Game
 
+<img width="451" height="322" alt="image" src="https://github.com/user-attachments/assets/094226c4-8b4b-40a1-beea-253c1de77bfb" />
+
+
 A 2D turn-based RPG battle game built in **C++** using **SFML** (graphics) and **miniaudio** (sound). Choose your hero, pick an enemy, and fight it out in a fully animated battle arena!
 
 ---
@@ -107,7 +110,6 @@ README.md
 | **Rohit** | Enemy AI logic (Goblin & Dragon attack behavior) |
 ---
 
-<img width="451" height="322" alt="image" src="https://github.com/user-attachments/assets/094226c4-8b4b-40a1-beea-253c1de77bfb" />
 <img width="448" height="319" alt="image" src="https://github.com/user-attachments/assets/cb24335f-39b3-42b3-bd13-6523b5138656" />
 
 
