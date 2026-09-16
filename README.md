@@ -114,3 +114,6 @@ README.md
 - [ ] Add inventory system
 - [ ] Add multiple levels/stages
 - [ ] Add save/load game feature
+
+<img width="451" height="322" alt="image" src="https://github.com/user-attachments/assets/094226c4-8b4b-40a1-beea-253c1de77bfb" />
+
