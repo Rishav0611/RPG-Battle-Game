@@ -6,7 +6,7 @@ A 2D turn-based RPG battle game built in **C++** using **SFML** (graphics) and *
 
 ## 📖 About the Project
 
-This project is made up of a total of **four team members**, and the aim is to build an actual working 2D game — complete with sprite animations, sound effects, turn-based combat, and a polished UI.
+This project is made because building new never stop's, and the aim is to build an actual working 2D game — complete with sprite animations, sound effects, turn-based combat, and a polished UI.
 
 **Owners:** Singh Rishav & Rohit Kumar
 
@@ -105,15 +105,9 @@ README.md
 | **Rishav** | Core character system, graphics & animation engine, UI, main game loop |
 | **Saumya** | Hero mechanics (potion, defend, level-up system) |
 | **Rohit** | Enemy AI logic (Goblin & Dragon attack behavior) |
-| **4th Member** | *(add contribution here)* |
-
 ---
 
-## 📌 Future Improvements
-- [ ] Add more hero & enemy classes
-- [ ] Add inventory system
-- [ ] Add multiple levels/stages
-- [ ] Add save/load game feature
-
 <img width="451" height="322" alt="image" src="https://github.com/user-attachments/assets/094226c4-8b4b-40a1-beea-253c1de77bfb" />
+<img width="448" height="319" alt="image" src="https://github.com/user-attachments/assets/cb24335f-39b3-42b3-bd13-6523b5138656" />
+
 
